@@ -66,7 +66,7 @@ To clone the project to your local machine and set it up:
 ### Working
 
 #### 1. Sign In Page
-<img src="https://github.com/user-attachments/assets/cc0f2786-84f8-404b-9b9c-6ee0e9dbeafb" alt="Sign In Page" width="500" />
+<img src="https://github.com/user-attachments/assets/cc0f2786-84f8-404b-9b9c-6ee0e9dbeafb" alt="Sign In Page" width="500" hwight="200" />
 
 
 This page allows users to sign in with their credentials.
