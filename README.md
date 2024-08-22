@@ -1,4 +1,4 @@
-# University Events Management Website
+# University Events Management Website - UnivEvents
 
 This is a university events management website built using the React framework for the frontend, Node and Express for the backend, and MongoDB Atlas for data storage. The website allows users to create and manage events with full authentication.
 
@@ -62,32 +62,28 @@ To clone the project to your local machine and set it up:
 - Manisha
 - Mitali Rani
 
-  ### Video Walkthrough
 
-[Click here to watch the video walkthrough](https://your-video-link.com)
-
-This video explains the entire setup process and demonstrates the core functionality of the website, including user authentication, event creation, and search capabilities.
-
----
-
-### Screenshots
+### Working
 
 #### 1. Sign In Page
-![Sign In Page](https://github.com/user-attachments/assets/cc0f2786-84f8-404b-9b9c-6ee0e9dbeafb)
+<img src="https://github.com/user-attachments/assets/cc0f2786-84f8-404b-9b9c-6ee0e9dbeafb" alt="Sign In Page" width="500" />
+
 
 This page allows users to sign in with their credentials.
 
 #### 2. Events Page
-![Events Page](https://github.com/user-attachments/assets/c78ccc42-0c6f-4ccb-b179-23fec944618e)
+<img src="https://github.com/user-attachments/assets/c78ccc42-0c6f-4ccb-b179-23fec944618e" alt="Events Page" width="500" />
+
 <br/>
 
-![Events](https://github.com/user-attachments/assets/6f81d2f4-42d2-44c3-ae5d-1c017e7ce23f) 
+<img src="https://github.com/user-attachments/assets/6f81d2f4-42d2-44c3-ae5d-1c017e7ce23f" alt="Events Page" width="500" />
+
 <br/>
 
 The events page shows a list of events with filters for searching by name, location, or category.
 
 #### 3. New Event Creation
-![New Event Creation](https://github.com/user-attachments/assets/36c0e185-ed2b-4b76-8be9-308b231fbc69)
+<img src="https://github.com/user-attachments/assets/36c0e185-ed2b-4b76-8be9-308b231fbc69" alt="New Event Creation" width="500" />
 <br/>
 Users can create a new event by filling out the necessary information in this form.
 
